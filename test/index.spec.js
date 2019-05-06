@@ -12,12 +12,6 @@ describe('cpf lib', () => {
   
   });
 
-  it('Should return true to valid CPF with 2 or higher numbers as verifying digits', () => {
-
-    expect(cpfValidator.cpfValidator('0000000000000000')).to.equal(false);
-  
-  });
-
   it('Should return true to valid CPF with 0/1 as verifying digits', () => {
 
     expect(cpfValidator.cpfValidator('95311414600')).to.equal(true);
