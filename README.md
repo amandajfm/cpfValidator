@@ -16,12 +16,12 @@ $  npm install cpfvalidator-am
 ```node
 
 > const validator = require("cpfvalidator-am");
-> validator.cpfValidator("469.982.920-15"))
+> validator.cpfValidator("469.982.920-15");
 > // returns "true"
 
 ```
 
-## roadmap oficial do projeto
+## Roadmap oficial do projeto
 
 #### versão 1.0.0 (released)
-- funcionalidades: Validação de sequência numérica de cpf, incluindo ou não espaços e caracteres especiais como ponto e traço.
+- Funcionalidades: Validação de sequência numérica de cpf, incluindo ou não espaços e caracteres especiais como ponto e traço.
