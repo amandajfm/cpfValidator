@@ -16,7 +16,7 @@ $  npm install cpfvalidator-am
 ```node
 
 > const validator = require("cpfvalidator-am");
-> validator.cpfValidator("469.982.920-15");
+> validator.cpfValidator("469.982.920-15")
 > // returns "true"
 
 ```
