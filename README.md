@@ -1,4 +1,4 @@
-# Validador de número de CPF v.1.0.0
+# Validador de número de CPF v.1.0.3
 
 **Esta biblioteca se destina à validação de números de CPF.**
 A versão atual é capaz de validar números de CPF (Cadastro de pessoa física).
@@ -23,7 +23,7 @@ $  npm install cpfvalidator-am
 
 ## Roadmap oficial do projeto
 
-#### versões 1.0.1 a 1.0.2
+#### versões 1.0.1 a 1.0.3
 - Correções ortográficas e pequenas mudanças de nomes.
 
 #### versão 1.0.0 (released)
