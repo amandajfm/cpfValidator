@@ -23,7 +23,7 @@ $  npm install cpfvalidator-am
 
 ## Roadmap oficial do projeto
 
-#### versões 1.0.1 a 1.0.3
+#### versões 1.0.1 a 1.0.2
 - Correções ortográficas e pequenas mudanças de nomes.
 
 #### versão 1.0.0 (released)
