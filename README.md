@@ -23,5 +23,8 @@ $  npm install cpfvalidator-am
 
 ## Roadmap oficial do projeto
 
+#### versões 1.0.1 a 1.0.3
+- Correções ortográficas e pequenas mudanças de nomes.
+
 #### versão 1.0.0 (released)
 - Funcionalidades: Validação de sequência numérica de cpf, incluindo ou não espaços e caracteres especiais como ponto e traço.
