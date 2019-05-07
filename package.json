@@ -1,6 +1,6 @@
 {
   "name": "cpfvalidator-am",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Js library to validate cpf identity numbers",
   "main": "./lib/index.js",
   "scripts": {
